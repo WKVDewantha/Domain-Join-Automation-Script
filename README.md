@@ -375,7 +375,7 @@ For issues or questions:
 1. Check TROUBLESHOOTING.md
 2. Verify your customizations are correct
 3. Test DNS connectivity
-4. Contact your IT administrator
+4. Contact : viduradewantha@gmail.com
 
 ---
 
