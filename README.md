@@ -1,4 +1,4 @@
-# Domain Join Script - Complete Usage Guide
+# Domain Join Automation Script - Complete Usage Guide
 
 ## 📋 Table of Contents
 1. [Quick Start](#quick-start)
