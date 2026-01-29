@@ -1,6 +1,6 @@
 # Domain Join Automation Script - Complete Usage Guide
 
-Purpose: Automates the process of renaming Windows 11 Pro computers and joining them to the student.vpa.ac.lk Active Directory domain.
+Purpose: Automates the process of renaming Windows 11 Pro computers and joining them to the company.ac.lk Active Directory domain.
 What it does:
 
 - Prompts for a computer number (e.g., 01, 02, 12)
