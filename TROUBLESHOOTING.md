@@ -209,5 +209,4 @@ Contact your IT administrator with:
 - Domain join requires the computer to be renamed first
 - Restart is required after renaming
 - Domain credentials must be correct: ittreainee@company.ac.lk
-- Domain credentials must be correct: ittreainee@company.ac.lk
 - Make sure you're on the correct network segment (192.168.130.x)
